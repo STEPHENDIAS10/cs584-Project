@@ -21,6 +21,10 @@ Our project goal is to study:
 
 Data set information:
 https://www1.nyc.gov/site/nypd/stats/crime-statistics/crime-statistics-landing.page
+
+------------------------------
+
+
 https://data.cityofchicago.org/Public-Safety/Crimes-2020/qzdf-xmn8
 
 The above dataset contain information such as the date of arrest, crime description, law code ,place of crime, age group ,etc. For all crimes in the state of Chicago and New York.
